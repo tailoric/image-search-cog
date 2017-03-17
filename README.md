@@ -9,7 +9,7 @@ A discord bot cog using different reverse image search sites using the [discord.
 
 ## IQDB uses danbooru API
 
-This means that to use the `iqdb` a valid Danbooru Username and API Key is needed.
+This means that to use the `iqdb` command, a valid Danbooru username and API key is needed.
 those should be put into a json file with the following structure:
 
 ```json
