@@ -1,5 +1,4 @@
 from discord.ext import commands
-from .utils import checks
 import aiohttp
 from bs4 import BeautifulSoup
 import json
